@@ -10,6 +10,7 @@ body {
     background: var(--background);
     display: grid;
     grid-template-rows: auto 1fr auto;
+    background-color: brown;
 }
 
 header {
@@ -20,10 +21,13 @@ header {
     margin: 20px;
     margin-top: 20px;
     align-items: center;
+    border: 7px dotted brown;
+    background-color: burlywood;
 }
 
 main {
     padding: 20px;
+    background-color: brown;
 }
 
 footer {
@@ -48,9 +52,11 @@ section {
 
 #question-section {
     justify-items: center;
-    gap: 20px;
+    gap: 50px;
     padding: 35px 50px;
-
+    border: 7px dotted brown;
+    background-color: burlywood;
+   
 }
 
 textarea {
@@ -68,6 +74,7 @@ textarea {
     margin: 30px 0;
     grid-row: 2;
     grid-column: 1;
+    
 }
 
 #answer-display {
@@ -83,6 +90,8 @@ textarea {
 
 #answer-section {
     padding: 30px;
+    border: 7px dotted brown;
+    background-color: burlywood;
 }
 
 h1 {
