@@ -24,3 +24,26 @@ Additional considerations:
   - What needs to live in a persistence layer?
 - Is there some state we need to initialize?
 - Ask: should any of this work be abstracted into functions? (i.e., is the work complicated? can it be resused?)
+
+
+## Answers
+
+'Yes?',
+'It is certain, Gorilla',
+'It is decidedly so, Monkey',
+'Without a doubt, my primate!',
+'You may rely on it, like bananas',
+'As I see it, yes, bananas',
+'Most Likely bananas',
+'Outlook bananas',
+'Signs point to banana',
+'Reply hazy, try again after I eat snacks',
+'Ask again later, too sleepy from bananas..',
+'Better not tell you now',
+'Cannot predict banana questions',
+'Concentrate and ask again',
+'Don’t count on it',
+'My reply is banana',
+'My sources say banana',
+'Outlook not so good',
+'Very doubtful',
